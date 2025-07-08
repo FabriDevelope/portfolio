@@ -35,10 +35,9 @@ Hola, soy **Fabri**, también conocido como `FabriDevelope`. Me gusta crear herr
 
 ## 📫 Contacto
 
-- 📧 Email: [fabridesarrolla@gmail.com](mailto:fabridesarrolla@gmail.com)
+- 📧 Email: [fabri.devv@gmail.com](mailto:fabri.devv@gmail.com)
 - 🌐 Web: próximamente...
-- 🧠 Discord: `FabriDevelope#0001`
-- 🎮 Proyecto comunidad: [ZONΔR](https://zonar.vercel.app)
+- 🎮 Proyecto comunidad: [ZONAR](https://zonar.netlify.app)
 
 ---
 
